@@ -14,7 +14,7 @@ export default async function HomePage() {
         <section className="hero shell" id="home">
           <div className="hero-copy">
             <div className="eyebrow"><span className="status-dot" /> OPEN TO LEARNING & COLLABORATION</div>
-            <p className="kicker">HELLO, WORLD! I'M</p>
+            <p className="kicker">HELLO, WORLD! I&apos;M</p>
             <h1>Albinus<br /><span className="gradient-text">Soren.</span></h1>
             <h2 className="hero-role">Developer <i>/</i> Creator <i>/</i> AI Enthusiast</h2>
             <p className="hero-description">I turn ideas into digital experiences — from websites and apps to AI-powered tools and creative projects.</p>
@@ -27,13 +27,13 @@ export default async function HomePage() {
               <div className="window-top"><span /><span /><span /><small>albinus.ts</small></div>
               <div className="code-lines">
                 <p><i>01</i> <b>const</b> developer = {"{"}</p>
-                <p><i>02</i> &nbsp; name: <em>'Albinus Soren'</em>,</p>
-                <p><i>03</i> &nbsp; role: <em>'Builder of ideas'</em>,</p>
+                <p><i>02</i> &nbsp; name: <em>&apos;Albinus Soren&apos;</em>,</p>
+                <p><i>03</i> &nbsp; role: <em>&apos;Builder of ideas&apos;</em>,</p>
                 <p><i>04</i> &nbsp; interests: [</p>
-                <p><i>05</i> &nbsp;&nbsp; <em>'Web & App Dev'</em>,</p>
-                <p><i>06</i> &nbsp;&nbsp; <em>'AI & SaaS'</em>,</p>
-                <p><i>07</i> &nbsp;&nbsp; <em>'Creative Tech'</em></p>
-                <p><i>08</i> &nbsp; ]</p><p><i>09</i> {"};"}</p><p className="code-comment"><i>10</i> // always learning ✦</p>
+                <p><i>05</i> &nbsp;&nbsp; <em>&apos;Web & App Dev&apos;</em>,</p>
+                <p><i>06</i> &nbsp;&nbsp; <em>&apos;AI & SaaS&apos;</em>,</p>
+                <p><i>07</i> &nbsp;&nbsp; <em>&apos;Creative Tech&apos;</em></p>
+                <p><i>08</i> &nbsp; ]</p><p><i>09</i> {"};"}</p><p className="code-comment"><i>10</i> {"// always learning ✦"}</p>
               </div>
               <div className="window-footer"><span className="live-pulse" /> BUILDING SOMETHING NEW <small>UTF-8</small></div>
             </div>
